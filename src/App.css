@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Buttons */
+button {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Cart */
+ul {
+  list-style-type: none;
+  padding: 10px;
+}
